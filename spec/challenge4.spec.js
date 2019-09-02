@@ -1,4 +1,3 @@
-
 const fizzBuzz = require("../src/challenge4");
 
 describe("Fizz Buzz", () => {
@@ -17,4 +16,4 @@ describe("Fizz Buzz", () => {
   it("Should output Fizz Buzz", () => {
     expect(output[5]).toBe("Fizz Buzz")
   });
- });
+});

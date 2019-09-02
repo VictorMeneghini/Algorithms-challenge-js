@@ -9,4 +9,3 @@ describe('Palindrome', () => {
     expect(isPalindrome("bbabbe")).toEqual(false);
   });
 });
-
