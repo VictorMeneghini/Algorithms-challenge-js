@@ -6,6 +6,6 @@
   "scripts": {
     "test": "jasmine"
   },
-  "author": "",
+  "author": "VictorMeneghini",
   "license": "ISC"
 }
